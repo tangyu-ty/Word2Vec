@@ -1,8 +1,8 @@
 # Word2Vec
 train to get Vector ，word Embedding
 
-已用jupyter重构
-直接运行`W2V.ipynb`即可在gpu上训练
+已用jupyter重构 直接运行`W2V.ipynb`即可在gpu上训练,
+有详细代码注释
 https://github.com/xox9943/Word2Vec/blob/main/W2V.ipynb
 
 
